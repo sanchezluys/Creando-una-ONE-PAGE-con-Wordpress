@@ -1,77 +1,115 @@
-# Creando-una-landpage-con-wordpress
-Guia paso a paso para crear una landigpage con wordpress
+# 🚀 Creando una ONE Page con WordPress 🌐
 
-Instructor: Santi Molina
-Talleres Don Web
+### 📝 Guía paso a paso para crear una **One Page** con WordPress
 
+**Instructor:** Santi Molina - Argentina 🇦🇷  
+**Talleres:** Don Web 🖥️
 
-## One page con wordpress
+---
 
+## 🌟 ¿Qué es una One Page con WordPress? 
 
-![alt text](imagen.png)
+Una **One Page** es un sitio web donde todo el contenido está concentrado en una sola página, creando una experiencia fluida para el usuario sin la necesidad de navegar entre diferentes secciones.
 
-## Introduccion
+![alt text](img/imagen.png)
 
-![alt text](imagen-1.png)
+---
 
-tipos:
+## 🎯 Introducción
 
-- Institucionales
-- Comerciales
+El objetivo de una **One Page** es **retener al usuario** y presentar información de manera concisa y directa. No es una simple *landing page*, sino que busca dar una imagen más **institucional**.
 
-busca retencion del usuario, 
-One page no es una landing page
+![alt text](img/imagen-1.png)
 
-su objetivo es mas institucional
+### 📑 Tipos de One Page:
+- **Institucionales** 🏢
+- **Comerciales** 🛍️
 
-- info concentrada, 
-- busca no aburrir
+🔍 **¿Qué busca?**
+- Información concentrada 💡
+- Evitar aburrir al usuario 😴
 
-![alt text](imagen-2.png)
+![alt text](img/imagen-2.png)
 
-- todo va a lo movil
--
+👉 **Todo está pensado para el móvil 📱**, ya que hoy en día gran parte del tráfico web proviene de dispositivos móviles.
 
-![alt text](imagen-3.png)
+---
 
-- hay temas gratis
-- pagos
-- y premiun
+## 🎨 Personalización y Diseño Visual
 
-imagenes maximo 200 a 300kb en las paginas, por optimizacion
+En una **One Page** puedes encontrar una variedad de temas, desde:
+- **Gratis** 🆓
+- **Pagos** 💰
+- **Premium** 🏆
 
+> 🔍 **Consejo:** Optimiza las imágenes para que pesen entre **200 y 300kb**. Esto mejora la carga de la página y la experiencia del usuario. 
 
-personalizacion
+![alt text](img/imagen-3.png)
 
-![alt text](imagen-4.png)
+---
 
-![alt text](imagen-5.png)
+## 🛠️ Personalización
 
-![alt text](imagen-6.png)
+A la hora de mostrar proyectos propios o trabajos realizados, lo recomendable es incluir entre **6 a 9 proyectos** como máximo para mantener la atención del usuario sin sobrecargar la página.
 
-![alt text](imagen-7.png)
+![alt text](img/imagen-4.png)
+![alt text](img/imagen-5.png)
+![alt text](img/imagen-6.png)
+![alt text](img/imagen-7.png)
+![alt text](img/imagen-8.png)
 
-![alt text](imagen-8.png)
+---
 
-de 6 a 9 proyectos maximo de muestra en los proyectos propoios o trabajos
+## 🖼️ Ejemplo de proyectos propios
 
-![alt text](imagen-9.png)
+Es recomendable que los proyectos mostrados en la página estén bien organizados y optimizados para la mejor experiencia.
 
-![alt text](imagen-10.png)
+![alt text](img/imagen-9.png)
 
-- hoy se usa el chat, un bot ademas del formulario
+---
 
-![alt text](imagen-11.png)
+## 🤖 Chat y Bots
 
-## 4. Personalizacion y diseño visual
+Hoy en día es común utilizar un **chat** o **bot** en el sitio, además del clásico formulario de contacto para mejorar la interacción con los usuarios.
 
-![alt text](imagen-12.png)
+![alt text](img/imagen-10.png)
+![alt text](img/imagen-11.png)
 
-## 5.
+---
 
-![alt text](imagen-13.png)
+## 🎨 Temas y Apariencia
 
+La apariencia es clave. Existen muchos **temas** disponibles para personalizar el diseño de tu One Page. Algunos son:
+- Gratuitos 🎁
+- Pagos 💳
+- Premium 🌟
 
-## 6. 
+![alt text](img/imagen-12.png)
 
-![alt text](imagen-14.png)
+Una vez elegido el tema, ¡es hora de **activarlo**!
+
+![alt text](img/imagen-13.png)
+![alt text](img/imagen-14.png)
+![alt text](img/image.png)
+![alt text](img/image-1.png)
+![alt text](img/image-2.png)
+![alt text](img/image-3.png)
+![alt text](img/image-4.png)
+![alt text](img/image-5.png)
+![alt text](img/image-6.png)
+![alt text](img/image-7.png)
+![alt text](img/image-8.png)
+![alt text](img/image-9.png)
+
+---
+
+## 🎯 Conclusión
+
+Crear una **One Page** con **WordPress** te permite tener un sitio web moderno, centrado en la **experiencia del usuario** y optimizado para dispositivos móviles. Recuerda siempre:
+- Elegir un buen tema 🎨
+- Optimizar tus imágenes 📸
+- Incluir herramientas interactivas como **chats** y **bots** 💬
+
+---
+
+¡Sigue estos pasos y crea una **One Page** espectacular para tu proyecto! 🚀
