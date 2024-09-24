@@ -101,7 +101,7 @@ Una vez elegido el tema, ¡es hora de **activarlo**!
 ![alt text](img/image-8.png)
 ![alt text](img/image-9.png)
 
----
+--- 
 
 ## 🎯 Conclusión
 
