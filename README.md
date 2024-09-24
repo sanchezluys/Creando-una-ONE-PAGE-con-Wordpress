@@ -71,3 +71,7 @@ de 6 a 9 proyectos maximo de muestra en los proyectos propoios o trabajos
 
 ![alt text](imagen-13.png)
 
+
+## 6. 
+
+![alt text](imagen-14.png)
